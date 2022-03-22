@@ -51,3 +51,12 @@ tr:nth-child(even) {
 
 </body>
 </html>
+
+
+
+
+
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
+https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
